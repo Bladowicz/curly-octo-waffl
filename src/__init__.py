@@ -1,3 +1,4 @@
 __author__ = 'gbaranowski'
 
-import logger
+from logger import start_logging
+import calculations as clc
